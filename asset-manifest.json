@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/BurgerOrder/static/css/main.f0328b6d.chunk.css",
-    "main.js": "/BurgerOrder/static/js/main.b19563f6.chunk.js",
-    "main.js.map": "/BurgerOrder/static/js/main.b19563f6.chunk.js.map",
+    "main.js": "/BurgerOrder/static/js/main.73c17653.chunk.js",
+    "main.js.map": "/BurgerOrder/static/js/main.73c17653.chunk.js.map",
     "runtime-main.js": "/BurgerOrder/static/js/runtime-main.3dbba345.js",
     "runtime-main.js.map": "/BurgerOrder/static/js/runtime-main.3dbba345.js.map",
-    "static/js/2.78230efb.chunk.js": "/BurgerOrder/static/js/2.78230efb.chunk.js",
-    "static/js/2.78230efb.chunk.js.map": "/BurgerOrder/static/js/2.78230efb.chunk.js.map",
+    "static/js/2.2cddb8d8.chunk.js": "/BurgerOrder/static/js/2.2cddb8d8.chunk.js",
+    "static/js/2.2cddb8d8.chunk.js.map": "/BurgerOrder/static/js/2.2cddb8d8.chunk.js.map",
     "index.html": "/BurgerOrder/index.html",
     "static/css/main.f0328b6d.chunk.css.map": "/BurgerOrder/static/css/main.f0328b6d.chunk.css.map",
-    "static/js/2.78230efb.chunk.js.LICENSE.txt": "/BurgerOrder/static/js/2.78230efb.chunk.js.LICENSE.txt",
+    "static/js/2.2cddb8d8.chunk.js.LICENSE.txt": "/BurgerOrder/static/js/2.2cddb8d8.chunk.js.LICENSE.txt",
     "static/media/banner.bc0fb879.png": "/BurgerOrder/static/media/banner.bc0fb879.png",
     "static/media/bannerpic.0ea356e7.png": "/BurgerOrder/static/media/bannerpic.0ea356e7.png",
     "static/media/logo.6f35d5b9.png": "/BurgerOrder/static/media/logo.6f35d5b9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3dbba345.js",
-    "static/js/2.78230efb.chunk.js",
+    "static/js/2.2cddb8d8.chunk.js",
     "static/css/main.f0328b6d.chunk.css",
-    "static/js/main.b19563f6.chunk.js"
+    "static/js/main.73c17653.chunk.js"
   ]
 }
